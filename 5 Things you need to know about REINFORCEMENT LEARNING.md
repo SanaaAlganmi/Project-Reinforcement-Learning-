@@ -5,13 +5,13 @@ Techniques of Decision Support System Project.
 
 1. [Introduction](#Introduction)
 
-2. [How to formulate a basic reinforcement Learning problem?](#How to formulate a basic reinforcement Learning problem)
+2. [How to formulate a basic reinforcement Learning problem?](#How)
 
-3. [Who uses Reinforcement Learning?](#Who uses Reinforcement Learning?)
+3. [Who uses Reinforcement Learning?](#Who)
 
-4. [When does Reinforcement Learning fail?](#When does Reinforcement Learning fail?)
+4. [When does Reinforcement Learning fail?](#When)
 
-5. [What is Difference between Reinforcement learning and Supervised learning?](#What is Difference between Reinforcement learning and Supervised learning?)
+5. [What is Difference between Reinforcement learning and Supervised learning?](#What)
 
 6. [Conclusion](#Conclusion)
 
@@ -22,7 +22,7 @@ Techniques of Decision Support System Project.
 Reinforcement Learning is a type of Machine Learning, and thereby also a branch of Artificial Intelligence. It allows machines and software agents to automatically determine the ideal behavior within a specific context, in order to maximize its performance. Simple reward feedback is required for the agent to learn its behavior; this is known as the reinforcement signal.
 There are many different algorithms that tackle this issue. As a matter of fact, Reinforcement Learning is defined by a specific type of problem, and all its solutions are classed as Reinforcement Learning algorithms. In the problem, an agent is supposed decide the best action to select based on his current state. When this step is repeated, the problem is known as a Markov Decision Process. (1)
 
-## How to formulate a basic reinforcement Learning problem?  <a name="How to formulate a basic reinforcement Learning problem"></a>
+## How to formulate a basic reinforcement Learning problem?  <a name="How"></a>
 
 •	Environment: Physical world in which the agent operates
 
@@ -37,7 +37,7 @@ There are many different algorithms that tackle this issue. As a matter of fact,
 So, the target of our dumb agent is to learn an optimal policy that will tell it which action at any given state to maximize the reward.
 We also want our agent to crave for rewards. In simple words, short term rewards are our priority. This is achieved by Discounting the rewards at each time step. (2)
 
-## Who uses Reinforcement Learning?  <a name="Who uses Reinforcement Learning?"></a>
+## Who uses Reinforcement Learning?  <a name="Who"></a>
 
 The possible applications of Reinforcement Learning are abundant, due to the generalness of the problem specification. As a matter of fact, a very large number of problems in Artificial Intelligence can be fundamentally mapped to a decision process. This is a distinct advantage, since the same theory can be applied to many different domains specific problem with little effort. (3)
 
@@ -49,12 +49,12 @@ The possible applications of Reinforcement Learning are abundant, due to the gen
 
 •	Advertising and Marketing
 
-## When does Reinforcement Learning fail? <a name="When does Reinforcement Learning fail?"></a>
+## When does Reinforcement Learning fail? <a name="When"></a>
 There are many challenges in current Reinforcement Learning research. Firstly, it is often too memory expensive to store values of each state, since the problems can be complex. Solving this involves looking into value approximation techniques, such as Decision Trees or Neural Networks. There are many consequences of introducing these imperfect value estimations, and research tries to minimize their impact on the quality of the solution.
 
 Moreover, problems are also generally very modular; similar behaviors reappear often, and modularity can be introduced to avoid learning everything all over again. Hierarchical approaches are common-place for this but doing this automatically is proving a challenge. Finally, due to limited perception, it is often impossible to fully determine the current state. This also affects the performance of the algorithm, and much work has been done to compensate this Perceptual Aliasing. (3)
 
-## What is Difference between Reinforcement learning and Supervised learning? <a name="What is Difference between Reinforcement learning and Supervised learning?"></a>
+## What is Difference between Reinforcement learning and Supervised learning? <a name="What"></a>
 Below Is the Top 7 Comparisons Between Supervised Learning vs Reinforcement Learning. (4)
 
 ## Conclusion    <a name="Conclusion  "></a>
