@@ -27,7 +27,7 @@ There are many different algorithms that tackle this issue. As a matter of fact,
 •	Policy: Method to map agent’s state to actions
 
 •	Value: Future reward that an agent would receive by taking an action in a particular state.
-
+ 
 So, the target of our dumb agent is to learn an optimal policy that will tell it which action at any given state to maximize the reward.
 We also want our agent to crave for rewards. In simple words, short term rewards are our priority. This is achieved by Discounting the rewards at each time step. (2)
 
