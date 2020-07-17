@@ -57,12 +57,12 @@ Moreover, problems are also generally very modular; similar behaviors reappear o
 ## What is Difference between Reinforcement learning and Supervised learning? <a name="What"></a>
 Below Is the Top 7 Comparisons Between Supervised Learning vs Reinforcement Learning. (4)
 
-## Conclusion    <a name="Conclusion  "></a>
+## Conclusion    <a name="Conclusion"></a>
 Reinforcement learning is no doubt a cutting-edge technology that has the potential to transform our world. However, it need not be used in every case. Nevertheless, reinforcement learning seems to be the most likely way to make a machine creative – as seeking new, innovative ways to perform its tasks is in fact creativity. 
 
 Thus, reinforcement learning has the potential to be a groundbreaking technology and the next step in AI development
 
-## Reference     <a name="Reference   "></a>
+## Reference     <a name="Reference"></a>
 1.	Reinforcement Learning: An Introduction, R. Sutton, A. Barto, http://reinforcementlearning.ai-depot.com/Books.html.
 2.	By Shweta Bhatt, Youplus, https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html
 3.	Reinforcement Learning  where house by Alex J. Champandard, http://reinforcementlearning.ai-depot.com/
