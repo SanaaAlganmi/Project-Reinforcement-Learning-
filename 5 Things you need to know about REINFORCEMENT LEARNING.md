@@ -4,7 +4,7 @@ Techniques of Decision Support System Project.
 ### Table of Contents
 
 1. [Introduction](#Introduction)
-2. [How to formulate a basic reinforcement Learning problem?](#How to formulate a basic reinforcement Learning problem?)
+2.[How to formulate a basic reinforcement Learning problem?](#How to formulate a basic reinforcement Learning problem?)
 3. [Who uses Reinforcement Learning?](#Who uses Reinforcement Learning?)
 4. [When does Reinforcement Learning fail?](#When does Reinforcement Learning fail?)
 5. [What is Difference between Reinforcement learning and Supervised learning?](#What is Difference between Reinforcement learning and Supervised learning?)
@@ -16,7 +16,7 @@ Techniques of Decision Support System Project.
 Reinforcement Learning is a type of Machine Learning, and thereby also a branch of Artificial Intelligence. It allows machines and software agents to automatically determine the ideal behavior within a specific context, in order to maximize its performance. Simple reward feedback is required for the agent to learn its behavior; this is known as the reinforcement signal.
 There are many different algorithms that tackle this issue. As a matter of fact, Reinforcement Learning is defined by a specific type of problem, and all its solutions are classed as Reinforcement Learning algorithms. In the problem, an agent is supposed decide the best action to select based on his current state. When this step is repeated, the problem is known as a Markov Decision Process. (1)
 
-## How to formulate a basic reinforcement Learning problem?<a name="How to formulate a basic reinforcement Learning problem?"></a>
+## How to formulate a basic reinforcement Learning problem?<a name=" How to formulate a basic reinforcement Learning problem?"></a>
 
 •	Environment: Physical world in which the agent operates
 
